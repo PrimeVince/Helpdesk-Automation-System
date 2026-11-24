@@ -1,0 +1,23 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# SQLite database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Generated logs
+logs/*.log
+
+# Generated reports
+reports/*.json
+reports/*.txt
+
+# Editor settings
+.vscode/
